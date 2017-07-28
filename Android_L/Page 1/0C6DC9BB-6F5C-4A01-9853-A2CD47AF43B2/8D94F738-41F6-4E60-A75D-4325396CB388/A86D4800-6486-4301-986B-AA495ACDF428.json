@@ -1,0 +1,81 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "do_objectID": "A86D4800-6486-4301-986B-AA495ACDF428",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 1,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 36.15913550361329,
+    "x": 4.349202164747112,
+    "y": 4
+  },
+  "hasConvertedToNewRoundCorners": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle 22",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{-0.0096573703957177869, 0}",
+        "curveMode": 1,
+        "curveTo": "{-0.0096573703957177869, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{-0.0096573703957177869, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 1,
+        "curveFrom": "{0.2392423854930992, 1}",
+        "curveMode": 1,
+        "curveTo": "{0.2392423854930992, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.2392423854930992, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 1,
+        "curveFrom": "{0.76469742570282373, 1}",
+        "curveMode": 1,
+        "curveTo": "{0.76469742570282373, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.76469742570282373, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 4,
+        "curveFrom": "{1.0412527100237314, 0}",
+        "curveMode": 1,
+        "curveTo": "{1.0412527100237314, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1.0412527100237314, 0}"
+      }
+    ]
+  },
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

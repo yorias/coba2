@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "F86E8635-1539-4B0C-BBCC-F88258BBD581",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 720,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "443D9DDF-7990-49E5-9E46-D1C873D6087A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2FE30768-D9BD-4E16-9B68-9E36A9282509"
+    },
+    {
+      "class": "text",
+      "id": "85802276-B5DD-4F99-97E8-06265EC529C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A986A56F-6274-4118-899F-6CC742D8DE94"
+    }
+  ],
+  "name": "actionbar",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDC9F0C5-027A-4FAC-A0FA-9FFBAE6BBA36",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

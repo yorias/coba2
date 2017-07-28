@@ -1,0 +1,100 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E7B4B058-5435-4699-BEB5-F92206299FC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A8410CF-5EC1-4CD6-9DAC-D32A017008FB",
+    "height": 36,
+    "width": 36,
+    "x": 207,
+    "y": 590
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8CCA1EEC-3D17-47D7-AB9A-93B0CAC76372"
+    },
+    {
+      "class": "rectangle",
+      "id": "2FBC176B-56B1-4572-AA03-20DBA3003C97"
+    },
+    {
+      "class": "oval",
+      "id": "70056C8A-BFB8-4B2D-978D-40BDF5AECB6F"
+    },
+    {
+      "class": "rectangle",
+      "id": "F9CBA995-A476-4769-9CB0-5E2D43178AA9"
+    },
+    {
+      "class": "triangle",
+      "id": "91F226A8-E9E5-4BCB-BBD1-BC8B14A71F76"
+    }
+  ],
+  "name": "Rectangle 153",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "F807C35A-C7BF-4414-B088-C84426D2B957",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4901960784313725,
+          "green": 0.4901960784313725,
+          "red": 0.4901960784313725
+        },
+        "do_objectID": "4181D7BD-F3D1-49F6-BE07-3C5E485BD443",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

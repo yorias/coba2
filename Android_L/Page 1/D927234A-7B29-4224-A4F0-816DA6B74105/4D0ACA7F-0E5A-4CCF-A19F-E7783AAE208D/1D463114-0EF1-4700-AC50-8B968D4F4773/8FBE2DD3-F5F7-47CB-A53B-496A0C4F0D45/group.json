@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "8FBE2DD3-F5F7-47CB-A53B-496A0C4F0D45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 36,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "785EA606-EA6E-41E2-B22E-9DF71F4FD2D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3EF61F4F-6C4F-4476-82FA-B6A7AB53E4AF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E71F2F50-0755-4509-A5D7-E70EDB8252D5"
+    }
+  ],
+  "name": "ic_Sound",
+  "nameIsFixed": true,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

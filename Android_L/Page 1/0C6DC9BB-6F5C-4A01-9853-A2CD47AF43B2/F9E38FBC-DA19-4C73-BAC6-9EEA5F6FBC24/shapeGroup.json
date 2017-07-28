@@ -1,0 +1,100 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "F9E38FBC-DA19-4C73-BAC6-9EEA5F6FBC24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "03129032-6272-4BB2-8F51-FC2B25FFA3BE",
+    "height": 42,
+    "width": 36,
+    "x": 495,
+    "y": 778
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "8FD54075-CD2F-4243-9C0E-9DF816D0F61A"
+    },
+    {
+      "class": "rectangle",
+      "id": "5E35AF6D-9845-4AA3-881C-51E49396B176"
+    },
+    {
+      "class": "rectangle",
+      "id": "E8038815-8FE9-441C-BF12-B561CD5657CA"
+    },
+    {
+      "class": "oval",
+      "id": "41976829-9543-4B98-88B1-F14C34FBE09D"
+    },
+    {
+      "class": "rectangle",
+      "id": "3318512F-E659-495C-855A-E1C497741AF8"
+    }
+  ],
+  "name": "Oval 93",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.886238694190979,
+          "green": 0.5645518898963927,
+          "red": 0.288655698299408
+        },
+        "do_objectID": "D1B97BF1-644E-4AB3-8710-3C1BA4FA79B0",
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 4
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4901960784313725,
+          "green": 0.4901960784313725,
+          "red": 0.4901960784313725
+        },
+        "do_objectID": "3515588A-0AC0-4981-A283-0EB72C2DA856",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
